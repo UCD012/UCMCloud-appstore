@@ -2,7 +2,7 @@
   - SPDX-FileCopyrightText: 2016 Nextcloud GmbH and Nextcloud contributors
   - SPDX-License-Identifier: AGPL-3.0-or-later
 -->
-# UCMeet Cloud App Store
+# UCMeet.Cloud App Store
 
 [![REUSE status](https://api.reuse.software/badge/github.com/nextcloud/appstore)](https://api.reuse.software/info/github.com/nextcloud/appstore)
 [![Analysis & Coverage](https://github.com/nextcloud/appstore/actions/workflows/analysis-coverage.yml/badge.svg)](https://github.com/nextcloud/appstore/actions/workflows/analysis-coverage.yml)
