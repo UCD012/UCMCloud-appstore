@@ -14,12 +14,12 @@
 [![License](https://img.shields.io/badge/license-AGPLv3+-blue.svg)](https://www.gnu.org/licenses/agpl-3.0.en.html)
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/846/badge)](https://bestpractices.coreinfrastructure.org/projects/846)
 
-A new app store for Nextcloud apps built with Django. Up and running at [https://apps.nextcloud.com](https://apps.nextcloud.com).
+A new app store for Nextcloud apps built with Django. Up and running at [https://apps.nextcloud.com](https://ucplay.ru).
 
 We **do not handle Nextcloud integration**. Nextcloud integration is handled in the [Nextcloud Server repository](https://github.com/nextcloud/server).
 
 ## Documentation
-Documentation including setup and API specification is [available on Read the Docs](https://nextcloudappstore.readthedocs.io/en/latest/)
+Documentation including setup and API specification is [available on Read the Docs](https://nextcloudappstore.readthedocs.io/ru/latest/)
 
 ## Contributing
 If you want to help in developing the App Store, translating or filing bugs and feature requests, please consult the [contributing guidelines](https://github.com/nextcloud/appstore/blob/master/.github/CONTRIBUTING.md)
